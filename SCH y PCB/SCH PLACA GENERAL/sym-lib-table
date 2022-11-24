@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "RomeroGabriel6to3ra-rescue")(type "Legacy")(uri "${KIPRJMOD}/RomeroGabriel6to3ra-rescue.lib")(options "")(descr ""))
+)
